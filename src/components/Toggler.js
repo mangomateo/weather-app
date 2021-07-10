@@ -1,7 +1,9 @@
 const Toggler = () => {
     return (
         <div className="toggle-switch">
-            <p>TOGGLER GOES HERE</p>
+            <i class="far fa-sun fa-2x"></i>
+            <i class="fas fa-toggle-off fa-2x"></i>
+            <i class="far fa-moon fa-2x"></i>
         </div>
     );
 }
